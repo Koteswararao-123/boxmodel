@@ -1,0 +1,17 @@
+.container{
+    font-size:larger;
+    text-align: center;
+    width: 335px;
+    height: 150px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* background-color: aqua; */
+    border-style: solid;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 400px;
+
+}
